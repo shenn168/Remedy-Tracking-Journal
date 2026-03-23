@@ -1,0 +1,13 @@
+{
+  "name": "remedy-safety-journal-v0-1-0",
+  "version": "0.1.0",
+  "description": "Prototype for Remedy Safety Journal",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
